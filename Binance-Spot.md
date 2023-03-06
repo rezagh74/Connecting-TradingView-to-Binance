@@ -1,6 +1,7 @@
 # Trade
 Trade
 ⚠️ Now you need to do the following steps in tradingview .
+
 1️⃣ A file containing the Pinescript code will be sent to you 
 put the code at the bottom of your script (Tradingview) 
 
