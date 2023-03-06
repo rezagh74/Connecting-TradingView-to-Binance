@@ -6,7 +6,7 @@ put the code at the bottom of your script (Tradingview)
 
 2️⃣ Link your strategies variable to the submitted code 
  If you are not able to do this part, you can get help from the following group 
- @pinescript_gp 
+ https://t.me/pinescript_gp 
 
 3️⃣ And then register an alert in TradingView for your script
 
@@ -15,4 +15,4 @@ put the code at the bottom of your script (Tradingview)
  https://bitnotif.com/pinescript/get.php 
 
 If your tradingview account is free and the webhook isn't active, you can message the admin
-Admin :  @zaringit
+Admin :  https://t.me/zaringit
